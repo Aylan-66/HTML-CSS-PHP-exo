@@ -1,0 +1,54 @@
+body {
+    width: 600px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+form {
+    text-transform: uppercase;
+}
+
+input  {
+    border: none;
+    border-bottom: 1px solid #000;
+    width : 600px;
+}
+
+textarea {
+    border: none;
+    border-bottom: 1px solid #000;
+    width : 600px;
+}
+
+.ratio {
+    width: 20px;
+}
+
+form {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+fieldset {
+    border: none;
+    border-top: 0px solid #000;
+}
+
+select {
+    border: none;
+    border-bottom: 1px solid #000;
+    width : 600px;
+}
+
+legend {
+    border: none;
+    border-bottom: 7px solid #000;
+    width : 600px;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.button {
+    width: 600px;
+    margin: auto;
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <header>
+      <h1>BOUNACEUR</h1>
+    </header>
+    <nav>
+      <li><a href="about.html">about</a></li>
+      <li><a href="aontact.html">Contact</a></li>
+      <li><a href="index.html">Projects</a></li>
+    </nav>
+  </body>
+</html>

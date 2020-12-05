@@ -1,0 +1,9 @@
+h2
+{
+    margin : center;
+}
+
+span.title
+{
+    color : #54a6b1;
+}
